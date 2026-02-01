@@ -1,6 +1,6 @@
 # YouTube Organizer
 
-Um dashboard simples e moderno para organizar e acompanhar vídeos dos seus canais favoritos do YouTube.
+Um dashboard simples para organizar e acompanhar vídeos dos seus canais favoritos do YouTube.
 
 ## Funcionalidades
 
@@ -8,6 +8,8 @@ Um dashboard simples e moderno para organizar e acompanhar vídeos dos seus cana
 - ✅ Organizar canais em pastas (ex: Investimentos > Thiago Nigro e Raul Sena)
 - ✅ Visualizar vídeos apenas dos canais selecionados
 - ✅ Cache local (localStorage) para persistir seus canais e pastas
+
+![Dashboard](public/organize.png)
 
 ## Como Usar
 
